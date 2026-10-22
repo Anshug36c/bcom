@@ -5,6 +5,9 @@ Syllabus-based, exam-oriented notes for the six B.Com Semester I courses in the 
 ## 🌐 Live site
 Once GitHub Pages is enabled: https://anshug36c.github.io/bcom/
 
+## Start here
+Open [`00_START_HERE.html`](00_START_HERE.html) for a syllabus map, course overview, study plan and answer-writing strategy.
+
 ## Courses
 | File | Course | Code | Units |
 |---|---|---|---:|
